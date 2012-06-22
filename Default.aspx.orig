@@ -10,13 +10,13 @@
     <form id="form1" runat="server">
     <div>
     
-<<<<<<< HEAD
         Howdy?<br />
         <br />
-        This is Yigit!</div>
+<<<<<<< HEAD
+        This is Yigit! Test</div>
 =======
-        Howdy from Virtual?</div>
->>>>>>> 7e14d63920b13ebb1d8ad254ab10a6098e5fab48
+        This is Yigit! Dubidibo</div>
+>>>>>>> 5c110eba473767c5f5d24731534f44ff1c5f77f7
     </form>
 </body>
 </html>
